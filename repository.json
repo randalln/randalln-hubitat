@@ -1,0 +1,16 @@
+{
+  "author": "Randall",
+  "gitHubUrl": "https://github.com/randalln/randalln-hubitat",
+  "packages": [
+    {
+      "id": "11fc88c7-9d25-406c-8560-52ff0dc158fd",
+      "name": "Mitsubishi Heat Pump Remote Sensor",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/randalln/hubitat-mitsubishi-mqtt-remote-app/main/packageManifest.json",
+      "description": "Companion app for sethkinast's driver for Mitsubishi heat pumps",
+      "tags": [
+        "Climate Control"
+      ]
+    }
+  ]
+}
