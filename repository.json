@@ -11,6 +11,16 @@
       "tags": [
         "Climate Control"
       ]
+    },
+    {
+      "id": "3c923f60-8205-4056-83a8-625cddcf97e9",
+      "name": "Mitsubishi Heat Pump Drivers",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/randalln/hubitat-mitsubishi-mqtt/main/packageManifest.json",
+      "description": "Driver designed to work with SwiCago's library",
+      "tags": [
+        "Climate Control"
+      ]
     }
   ]
 }
